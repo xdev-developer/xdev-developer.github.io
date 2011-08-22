@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Apr 11 01:53:23 EEST 2011
+openmali-1.0.jar>=
+openmali-1.0-javadoc.jar>=
+openmali-1.0-sources.jar>=
