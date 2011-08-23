@@ -1,0 +1,12 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Aug 23 12:45:20 EEST 2011
+http\://xaoc3dgraph.github.com/maven/.lastUpdated=1314092451424
+http\://10.0.1.109\:8081/nexus/content/groups/public/.error=
+http\://10.0.1.109\:8081/nexus/content/groups/public/.lastUpdated=1314092720422
+default-http\://repository.jboss.org/maven2/.lastUpdated=1314092485355
+http\://xaoc3dgraph.github.com/maven/.error=
+http\://maven.eparapher.com/repo/.error=
+http\://maven.eparapher.com/repo/.lastUpdated=1314092451237
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1314092451639
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact net.sf.jagatoo\:jagatoo\:pom\:1.0 from/to jboss (http\://repository.jboss.org/maven2)\: Access denied to\: http\://repository.jboss.org/maven2/net/sf/jagatoo/jagatoo/1.0/jagatoo-1.0.pom
