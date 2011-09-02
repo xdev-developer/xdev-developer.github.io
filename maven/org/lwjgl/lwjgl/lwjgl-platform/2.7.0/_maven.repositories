@@ -1,6 +1,0 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Apr 11 01:53:40 EEST 2011
-lwjgl-platform-2.7.0.pom>=
-lwjgl-platform-2.7.0-natives-linux.jar>=
-lwjgl-platform-2.7.0-natives-win.jar>=
-lwjgl-platform-2.7.0-natives-mac.jar>=
