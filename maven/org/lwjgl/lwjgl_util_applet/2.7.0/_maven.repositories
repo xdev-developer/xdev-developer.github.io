@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Sep 03 00:00:10 EEST 2011
+lwjgl_util_applet-2.7.0.jar>=
+lwjgl_util_applet-2.7.0-sources.jar>=
+lwjgl_util_applet-2.7.0.pom>=
+lwjgl_util_applet-2.7.0-javadoc.jar>=
