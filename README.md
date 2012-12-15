@@ -1,7 +1,4 @@
-xaoc3dgraph.github.com
-======================
-
-#Maven repository contains :
+#This maven repository contains :
 ```xml
 openmali 1.0
 jagatoo 1.0
