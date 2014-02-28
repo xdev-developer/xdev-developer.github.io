@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 28 22:59:49 EET 2014
+migrations-maven-plugin-1.0.jar>=
+migrations-maven-plugin-1.0.pom>=

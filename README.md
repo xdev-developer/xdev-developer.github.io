@@ -5,6 +5,7 @@ jagatoo 1.0
 jwjgl 2.7.0 
 slick-util 2.0 
 jops 051.002 (Java open particle system)
+migrations-maven-plugin
 ```
 #Repository settings
 ```xml
