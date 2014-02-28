@@ -12,7 +12,7 @@ migrations-maven-plugin
   <repository>
     <id>xdev.developer.repo</id>
     <name>xdev developer repository</name>
-    <url>http://xaoc3dgraph.github.com/maven/</url>
+    <url>http://xaoc3dgraph.github.io/maven/</url>
   </repository>
 ```
 #dependency configuration:
