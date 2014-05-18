@@ -1,0 +1,82 @@
+@import "reset";
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+@font-face {
+    font-family: 'museo_slab500';
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background: #0175b0;
+  color: white;
+  font: 14px Helvetica, Arial, sans-serif;
+  text-align: center;
+  @media only screen and (max-width : 860px) {
+    font-size: 12px;
+  }
+}
+
+h1, h2 {
+  font-family: 'museo_slab500', Helvetica, sans-serif;
+  color: white;
+  font-weight: 400;
+  letter-spacing: -1px;
+}
+
+header {
+  height: 400px;
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  margin: auto;
+  h1 {
+    font-size: 4em;
+    @media only screen and (max-width : 860px) {
+      font-size: 2.5em;
+    }
+  }
+  h2 {
+    margin: 0;
+    color: #3eaecd;
+    font-size: 2.3em;
+  }
+}
+
+nav {
+  margin: 50px auto 0;
+  a {
+    display: inline-block;
+    margin: 0 10px;
+    width: 68px;
+    height: 68px;
+    background: #3eaecd url(../images/social.svg);
+    border-radius: 34px;
+    -webkit-transition: all 300ms ease-in-out;
+    -moz-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+    &:hover {
+      background-color: #fff;
+    }
+  }
+  .github {
+    background-position: -0px 0;
+  }
+  .linkedin {
+    background-position: -68px 0;
+  }
+  .mail {
+    background-position: -207px 0;
+  }
+}
+
+
